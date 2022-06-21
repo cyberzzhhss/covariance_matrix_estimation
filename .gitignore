@@ -1,0 +1,30 @@
+# trades and quotes 
+singleAdjustedTrades/*
+singleAdjustedQuotes/*
+FullAdjustedTrades/*
+FullAdjustedQuotes/*
+pristineTrades/*
+pristineQuotes/*
+cleanedQuotes/*
+cleanedTrades/*
+adjustedQuotes/*
+adjustedTrades/*
+quotes/*
+trades/*
+*/quotes/*
+*/trades/*
+
+# python notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# Mac OS
+.DS_Store
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/*
+*.py[cod]
+*$py.class
